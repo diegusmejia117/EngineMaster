@@ -1,0 +1,10 @@
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/DirectXTex.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/texassemble.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/texconv.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/texdiag.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/ddsview.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/diegu/OneDrive/Documentos/MasterBarcelona/AxoltlEngine/EngineMaster/Engine/Source/DirectXTex/out/build/x64-Debug/CMakeFiles/install.dir
